@@ -16,8 +16,12 @@ Always learning, always shipping. 🚀
 
 ---
 # LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ritikkrpandey57?theme=dark&font=Karma&ext=heatmap&animation=true)](https://leetcode.com/ritikkrpandey57/)
 
+### ⭐ Rating & Global Rank
+![LeetCode Rating](https://leetcode-badge-showcase.vercel.app/api?username=ritikkrpandey57&theme=dark)
+
+### 📊 Detailed Stats
+[![LeetCode Card](https://leetcard.jacoblin.cool/ritikkrpandey57?theme=dark&font=Karma&ext=heatmap&animation=true)](https://leetcode.com/ritikkrpandey57/)
 
 ---
   ## 💰 You can help me by Donating
