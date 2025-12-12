@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Ritik Pandey 👋<br>I'm a Frontend Developer and a CSE student at AKGEC, passionate about turning ideas into fast, accessible, and user-friendly web applications.<br><br>I love working with:<br><br>React.js, JavaScript, TailwindCSS<br><br>Currently learning DSA (Java), System Design, and soon diving deeper into Spring Boot for backend.<br><br>I enjoy solving real-world problems, building projects that help people, and improving my skills every day.<br>I also practice on LeetCode, focusing on DSA & problem-solving to strengthen my fundamentals.<br><br>🌱 Currently working on: building a full-stack project.<br>🚀 Goal: become a well-rounded software engineer capable of building scalable systems end-to-end.
+Hi, I'm Ritik — a frontend developer and CSE undergrad who enjoys building clean, responsive interfaces with React.js and modern web technologies.
+I’m actively improving my DSA, building real projects, and exploring backend development with Spring Boot.
+Always learning, always shipping. 🚀
 
 
 ## 🌐 Socials:
